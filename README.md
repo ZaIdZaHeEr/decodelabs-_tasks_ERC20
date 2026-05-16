@@ -38,9 +38,6 @@ project/
 ├── script/
 │   └── Deploy.s.sol
 │
-├── test/
-│   └── TokenTest.t.sol
-│
 ├── lib/
 │
 ├── foundry.toml
